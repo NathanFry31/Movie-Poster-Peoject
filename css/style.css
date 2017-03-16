@@ -1,0 +1,159 @@
+html{
+	font-family:sans-serif;
+	background-color: gray;
+	font-variant-caps: small-caps;
+}
+main{
+	background-image: url('../images/starwarsepisodeIII.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 720px;
+	height: 1066px;
+}
+small{
+	font-size: 8px;
+}
+#movie{
+	position: absolute;
+	top: 890px;
+	left:150px;
+	color: silver;
+	letter-spacing: 3px;
+
+}
+#episode{
+	position: absolute;
+	color: silver;
+	top:890px;
+	left:275px;
+	letter-spacing: 3px;
+}
+#revenge{
+	position: absolute;
+	color: silver;
+	top:890px;
+	left:400px;
+	letter-spacing: 3px;
+}
+#actor{
+	position: absolute;
+	color:silver;
+	top: 905px;
+	left:150px;
+}
+#portman{
+	position: absolute;
+	color:silver;
+	top: 905px;
+	left: 315px;
+}
+#hayden{
+	position: absolute;
+	color: silver;
+	top: 905px;
+	left: 452px;
+}
+#ian{
+	position: absolute;
+	color: silver;
+	top: 920px;
+	left: 150px;
+}
+#jackson{
+	position: absolute;
+	color:silver;
+	top:920px;
+	left: 305px;
+}
+#lee{
+	position: absolute;
+	color: silver;
+	top:920px;
+	left: 482px;
+}
+#costars{
+	position: absolute;
+	color: silver;
+	top:935px;
+	left: 275px;
+	letter-spacing: 0.5px;
+}
+#music{
+	position: absolute;
+	color: silver;
+	top: 965px;
+	left: 225px;
+}
+#john{
+	position: absolute;
+	color: silver;
+	top: 970px;
+	left: 260px;
+	font-size: 14px;
+}
+#producer{
+	position: absolute;
+	color: silver;
+	top: 965px;
+	left: 365px;
+}
+#rick{
+	position: absolute;
+	color: silver;
+	top: 970px;
+	left: 420px;
+	font-size: 14px;
+}
+#george{
+	position: absolute;
+	color: silver;
+	top: 980px;
+	left: 320px;
+}
+#lucas{
+	position: absolute;
+	color: silver;
+	top:1000px;
+	left: 317px;
+	font-size: 14px
+}
+#logo{
+	position: relative;
+	top: 725px;
+	left: 200px;
+	width:350px;
+}
+#headline{
+	position: relative;
+	text-align: center;
+	color:white;
+	bottom:125px;
+}
+#lucasfilm{
+	position: relative;
+	bottom: 120px;
+	left:75px
+}
+#dolby{
+	position: relative;
+	bottom: 50px;
+	left: 140px;
+}
+#website{
+	position: relative;
+	color:white;
+	bottom:75px;
+	left:300px;
+	font-size: 14px;
+
+}
+#thx{
+	position: relative;
+	bottom: 120px;
+	left: 490px;
+}
+#Century{
+	position: relative;
+	bottom: 50px;
+	left:550px;
+}
